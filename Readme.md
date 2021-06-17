@@ -22,3 +22,4 @@ CrowdSale : Crowdsale.sol
 
 Crowdsale contract with all the necessary functions and modifiers. It fetches dynamic data from PriceOracle. Dispense Ether to the Client Specefied Adderss.
 Ensure minimum Investment is above 500. Calulates Bonus Structure Along the Way. Releases the Tokens as soon as Ether is Received.
+ICO Start Date Only Refers to the CrowdSale Start Date. Private and PreSales must be updated manually through a GUI
